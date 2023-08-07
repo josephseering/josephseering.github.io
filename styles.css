@@ -24,7 +24,7 @@ a {
 
 div#tswsidecol {
 	float: left ;
-	width: 25% ;
+	width: 20% ;
 	color: #000 ;
 	background-color: #fff ;
 	border-radius: 8px;
@@ -33,7 +33,7 @@ div#tswsidecol {
 }
 div#tswcontent {
 	float: left ;
-	width: 75% ;
+	width: 80% ;
 	color: #000 ;
 	background-color: #fff ;
 	opacity: 0.85 ;
